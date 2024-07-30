@@ -11,3 +11,4 @@ Weather Paramters CSV:
 
 Concatenated Model:
 - Concatenated CNN + Transformer (BEST) for the future Satellite image generation and CNN + Transformer (BEST) for the future weather parameters prediction using Concatenate(), Dense Layers, Dropout Layers and Re-shape layes to give the final proposed Combined Model and generate future image maps and weather parameters predictions.
+  
