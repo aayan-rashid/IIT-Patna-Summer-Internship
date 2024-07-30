@@ -1,0 +1,14 @@
+LSTM: 
+https://colab.research.google.com/drive/1Xb6lym2RYbei6PbXjbri48fawfUu1N-p?usp=sharing
+
+
+CNN + LSTM:
+https://colab.research.google.com/drive/1Oz5u2T4Box9IMd46OQ2r8JhDurURO042?usp=sharing
+
+
+GRU:
+https://colab.research.google.com/drive/1VcDwTmmUpyvxr6eNF2eMTnJzRtcvhwVY?usp=sharing
+
+
+CNN + Transformer: (BEST)
+https://colab.research.google.com/drive/18lPnuYQipyzjRYgMaJc76zIjBmzFvZsC?usp=sharing
